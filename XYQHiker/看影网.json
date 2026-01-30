@@ -12,7 +12,7 @@
     "分类起始页码": "1",
     "分类链接": "https://www.kanyingv.com/so/{cateId}/-{by}------{catePg}---/",
     "分类名称": "电影&电视剧&综艺&动漫",
-    "分类名称替换词": "movie&tv&variety&anime",
+    "分类名称替换词": "movie&tv&variety&anime&live",
     "筛选数据": {},
     //"筛选数据": "ext",
     //{cateId}
